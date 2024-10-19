@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image]![WhatsApp Image 2024-10-19 at 07 38 57_651c2460](https://github.com/user-attachments/assets/36622f8c-853a-4d2e-b7b6-74721a41e48d)
+![Screenshot 2024-10-18 104221](https://github.com/user-attachments/assets/f5c0932a-597a-46ef-8104-719bdec6973e)
+
 
 
 
@@ -63,8 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![Screenshot 2024-10-18 104159](https://github.com/user-attachments/assets/67ac9cc5-b1cf-4a19-8173-5ce8fd32fdda)
 
- ![image]![WhatsApp Image 2024-10-19 at 07 38 57_60d5f207](https://github.com/user-attachments/assets/c2c35ffa-d16b-4957-85e1-43e091ca86e0)
 
 
 iv)	Creating the new test cell view
@@ -75,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image]![WhatsApp Image 2024-10-19 at 07 38 57_930913ea](https://github.com/user-attachments/assets/a7977c78-354b-4a60-ba50-8820ac206146)
+![Screenshot 2024-10-18 104134](https://github.com/user-attachments/assets/33853305-3b79-4896-b769-8f81698b8e16)
+
 
 
 Analog simulation by SPECTRE.
@@ -87,15 +89,17 @@ Analog simulation by SPECTRE.
 	Select the type and set the specifications and press OK
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
-•	Execute Simulation -- Net list and Run
- ![image]![WhatsApp Image 2024-10-19 at 07 38 58_39ce5780](https://github.com/user-attachments/assets/ff1405de-cb36-417c-89f5-c85866dd60da)
 
 
-For Transient Analysis Settings and Output
- ![image]![WhatsApp Image 2024-10-19 at 07 38 58_0cf545a9](https://github.com/user-attachments/assets/3dcddf90-c142-4405-a740-c84c277b9cdf)
 
+For Transient Analysis Settings
+![Screenshot 2024-10-18 104939](https://github.com/user-attachments/assets/f7c0575b-dc0a-403a-b8f6-d40d81ec87f1)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ 
+
+ Output
+![Screenshot 2024-10-18 104840](https://github.com/user-attachments/assets/cfd9985f-1f9e-4551-ba24-0a18151e9aeb)
+
 
 
 
